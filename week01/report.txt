@@ -1,0 +1,1 @@
+pada lab week 1 ini saya belajar cara melakukan membuat directory, membuat file .txt menggunakan nano, vi, atau vim. dan belajar melakukan push pull commit ke dalam github
