@@ -1,0 +1,2 @@
+pada lab week 0 diharapkan mahasiswa melakukan pendaftaran ke badak.cs.ui.ac.id
+dan mendapatkan user. dan membuat user di github
