@@ -1,0 +1,5 @@
+w01-170904-11-LR-About : Lab week01 and teory
+w01-170904-11-PS-About : CLI,GIT And Scripting
+w01-170905-16-LR-About : Protection and Security From Lecturer
+w01-170907-16-LR-About : week02-Scripting-2 and week02-scripting-3 from
+ lecturer

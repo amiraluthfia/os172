@@ -1,3 +1,3 @@
 w00-170831-16-LR-About:Introduction Operating System from Lecturer
-w01-170904-11-PS-About: Protection and Security
-w01-170904-14-PS-About:Protection&Security
+w00-170830-13-PS-About : Login to badak server, Make a user on Github
+w00-170830-13-DS-About : How to login at badak server with Atikah.Zahrah
