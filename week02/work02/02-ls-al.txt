@@ -1,0 +1,4 @@
+total 8
+drwxr-xr-x 2 amira.luthfia StafCS 4096 Sep 13 09:13 .
+drwxr-xr-x 3 amira.luthfia StafCS 4096 Sep 13 09:09 ..
+-rw-r--r-- 1 amira.luthfia StafCS    0 Sep 13 09:13 02-ls-al.txt

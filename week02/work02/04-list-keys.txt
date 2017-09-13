@@ -1,0 +1,18 @@
+/home/fasilkom/mahasiswa/a/amira.luthfia/.gnupg/pubring.gpg
+-----------------------------------------------------------
+pub   4096R/77B30242 2017-09-12 [expires: 2018-03-11]
+uid                  Amira Luthfia Fitriani (Studying OS is fun!) <amira.luthfia@ui.ac.id>
+sub   4096R/504D4D4A 2017-09-12 [expires: 2018-03-11]
+
+pub   4096R/AF27575C 2017-09-12 [expires: 2018-03-11]
+uid                  Amira Luthfia Fitriani (Studying OS is Fun!) <amira.luthfia@ui.ac.id>
+sub   4096R/70BFC483 2017-09-12 [expires: 2018-03-11]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2018-09-07]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2018-09-07]
+
+pub   4096R/73607C87 2017-09-13 [expires: 2018-03-12]
+uid                  Amira Luthfia Fitriani (Studying OS is fun!!) <amira.luthfia@ui.ac.id>
+sub   4096R/B65FA7AB 2017-09-13 [expires: 2018-03-12]
+
