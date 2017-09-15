@@ -1,0 +1,5 @@
+w02-170912-LR-BIOS,Loader,SystemD and I/O from Lecturer
+w02-170914-LR-C language(if else, for loop, for while, etc) from Lecturer
+w02-170912-PS-doing lab session with Gheafany, Nauli,Atikah
+w02-170912-DS-discussion about Lab wwek02 with Gheafany, Nauli,Atikah
+w02-170910-PS-doing lab session with Atikah Zahrah
