@@ -1,0 +1,21 @@
+Hallo, this is explanation about linux booting!
+
+There are 6 high level stages of typical linux booting process
+1. BIOS
+BIOS stand for Basic I/O system and perfome some system integrity checks. BIOS can searches, loads, and executes the boot leader program.
+
+2. MBR
+MBR stand for Master Boot Record, it's located in the 1st sector of the bootable disk. MBR is less than 512 bytes in size. The component has three, primary boot loader, partition table, and mbr validation check
+
+3. GRUB
+GRUB stands fot Grand Unified Bootloader. GRUB has the knowledge of the filesystem and configuration file is /boot/grub/grub.conf
+
+
+4. Kernel
+Kernel executes the /sbin/init program. since init was the 1st program to be executed by Linux Kernel, it has the process id (PID) of 1. Do a 'ps-ef | grep init' and check the pid.
+
+5. Init 
+Looks at the /etc/inittab file to decide the Linux run level. Following are the available run levels is halt, single user mode, Multiuser without NFS, Full multiuser mode, unused, X11, reboot (0-6). Init identifies the default initlevel from /etc/inittab on your system to identify the default run level
+
+6. Runlevel Programs
+When the linux system is booting up, you might see various service getting started.Program starts with S are used during startup, K for kill

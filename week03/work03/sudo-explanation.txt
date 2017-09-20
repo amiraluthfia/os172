@@ -1,0 +1,4 @@
+file init akan dijalankan saat boot system atau ketika memasukkan perintah, 
+pada script /etc/init.d/sudo melakukan dua hal utama yaitu :
+1. start daemons running
+- melakukan satu tugas per boot seperti membersihkan atau mempersiapkan file
