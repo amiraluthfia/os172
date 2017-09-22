@@ -1,0 +1,4 @@
+w04-170818-16-LR-Addressing, Shared Lib, Pointer, I/O Programming from lecturer
+w04-170919-09-PS-doing lab session
+w04-170919-10-discussion about lab session with atikah dan gheafany
+w04-170922-22-Problem solving about lab session
