@@ -1,7 +1,5 @@
-w08-171113-10-LR-Studying lab session
-w08-171114-16-LR-Studying Sheduling with Lecturer
-w08-171116-16-LR-Studying Scheduling with Lecturer
-w08-171114-17-DS-Exercise Scheduling with lecturer
-w08-171116-16-DS-Exercise Scheduling with lecturer
-w08-171117-15-Doing Lab Session
-w08-171118-06-Doing Lab Session
+w09-171121-10-LR-Studying lab session
+w09-171121-16-LR-Studying File System & Persistent Storage with Lecturer
+w09-171123-16-LR-Studying File System & Persistent Storage with Lecturer
+w09-171128-16-DS-Exercise File System & Persistent Storage with lecturer
+w09-171130-16-DS-Exercise File System & Persistent Storage with lecturer
